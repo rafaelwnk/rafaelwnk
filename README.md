@@ -8,7 +8,7 @@ Sou Rafael Nascimento, estudante de Engenharia de Computação com foco em back-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,python,java,c,js,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,python,java,c,js,html,css,mysql,git" />
   </a>
 </p>
           
