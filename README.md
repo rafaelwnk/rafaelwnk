@@ -8,7 +8,7 @@ Estudante de Engenharia de Computação com foco em back-end, desenvolvendo solu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,python,angular,ts,js,html,css,c,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,python,angular,ts,js,html,css,c,mysql,mongodb,git" />
   </a>
 </p>
           
