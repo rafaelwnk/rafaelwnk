@@ -1,6 +1,6 @@
-# Olá! 👋
+# Sobre
 
-Sou Rafael Nascimento, estudante de Engenharia de Computação com foco em back-end, desenvolvendo soluções com .NET. Tenho grande entusiasmo por robótica e automações, sempre buscando explorar novas tecnologias para criar soluções inovadoras. 
+Estudante de Engenharia de Computação com foco em back-end, desenvolvendo soluções com .NET. Tenho grande entusiasmo por robótica e automações, sempre buscando explorar novas tecnologias para criar soluções inovadoras. 
 
 ---
 
